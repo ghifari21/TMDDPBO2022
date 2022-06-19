@@ -11,7 +11,5 @@
 
 ## Game Assets
 
-```
 1. RPG Town Music by [Poltergasm](https://poltergasm.itch.io/rpg-town-music)
 2. Background Image [Game Art 2D](https://www.gameart2d.com/free-platformer-game-tileset.html)
-```
